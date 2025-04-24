@@ -449,9 +449,7 @@ form input,form textarea{
         flex-direction: column;
         gap: 10px;
     }
-    .layer h3{
-        padding: 100px;
-    }
+    
 }
 
 /* For mobile devices (smaller than 480px) */
